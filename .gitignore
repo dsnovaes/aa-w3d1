@@ -3,3 +3,4 @@
 *.zip
 /lecture
 /assessment-checker
+.byebug_history
